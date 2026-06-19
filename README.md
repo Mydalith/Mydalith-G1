@@ -36,12 +36,16 @@ Rescan your plugins in your DAW (FL Studio, Ableton, Bitwig, etc.).
 
 Load Mydalith-G1 into a MIDI channel, set your desired MIDI OUT port, and route the outputs to your synthesizers!
 
-📜 License & Usage (Open Source)
+📜 License & Usage (Free & Non-Commercial)
 
 Mydalith-G1 is 100% free. The goal of this project is to give a powerful tool back to the underground producer community.
 
-The source code is released under the MIT License and is freely accessible. You are welcome to fork the repository, modify the code, and use it for your own projects (even commercially).
-Sole Condition: For any use, modification, or redistribution of the code, Mydalith (the original creator) must be credited and linked.
+The source code is freely accessible. You are welcome to fork the repository, modify the code, and use it for your own personal projects.
+
+However, there is a strict commercial restriction:
+This project is open-source and free to use, UNLESS you use the source code for a commercial product. If you intend to use this code commercially, you must obtain explicit permission. The purpose of this tool remains to be free to anyone; it is not to be sold separately or packaged into paid software.
+
+Credit Requirement: For any non-commercial use, modification, or redistribution of the code, Mydalith (the original creator) must be credited and linked.
 
 🛑 Contribution Policy
 
