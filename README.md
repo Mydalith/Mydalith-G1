@@ -1,4 +1,5 @@
-<img width="2817" height="1638" alt="Mydalith G1 Groovebox " src="https://github.com/user-attachments/assets/40aa2c53-a749-42e7-b13d-a9b591fbb3c4" />
+<img width="3108" height="1641" alt="Mydalith G1 Groovebox " src="https://github.com/user-attachments/assets/7f52df09-3341-4254-8af4-60739457b186" />
+
 
 🌌 Mydalith-G1 | Professional Mathematical Groovebox
 
