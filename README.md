@@ -1,3 +1,5 @@
+<img width="2817" height="1638" alt="Mydalith G1 Groovebox " src="https://github.com/user-attachments/assets/40aa2c53-a749-42e7-b13d-a9b591fbb3c4" />
+
 🌌 Mydalith-G1 | Professional Mathematical Groovebox
 
 Mydalith-G1 is not just another generic "Random MIDI Generator". It is a high-precision VST3 groovebox rooted in deep mathematical music theory, specifically designed for the most complex and often criminally neglected niches of electronic music.
